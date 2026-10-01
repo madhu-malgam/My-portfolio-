@@ -1,2 +1,65 @@
-# My-portfolio-
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Madhu - Portfolio</title>
+<style>
+body { 
+  background: linear-gradient(135deg, #ffafbd, #ffc3a0, #fbc2eb);
+  font-family: sans-serif; margin:0; padding:20px; 
+  min-height:100vh;
+}
+.card {
+  background: white; 
+  border-radius:20px; 
+  padding:20px; 
+  margin:15px auto; 
+  max-width:500px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+h1 { color: #7c3aed; text-align:center; }
+h2 { color: #4c1d95; }
+.pill {
+  display:inline-block; background: #fbcfe8;
+  color:#831843; padding:6px 14px;
+  border-radius:20px; margin:4px; font-size:14px;
+}
+a { color: #7c3aed; text-decoration:none; }
+</style>
+</head>
+<body>
+
+<div class="card">
+<h1>Hi, I am Madhu 👋</h1>
+<p style="text-align:center"><b>Diploma CS Student | Web Developer</b><br>
+From Jabalpur, MP 📍</p>
+<p style="text-align:center">
+<a href="#">📄 Resume</a> &nbsp; | &nbsp; <a href="#">📧 Contact</a>
+</p>
+</div>
+
+<div class="card">
+<h2>About Me ✨</h2>
+<p>I am learning HTML, CSS, JavaScript and building clean, responsive websites.</p>
+</div>
+
+<div class="card">
+<h2>Skills 💻</h2>
+<span class="pill">HTML</span>
+<span class="pill">CSS</span>
+<span class="pill">JavaScript</span>
+<span class="pill">Python 28%</span>
+<span class="pill">Java 17%</span>
+<span class="pill">C++</span>
+<span class="pill">GitHub</span>
+</div>
+
+<div class="card" style="background:#fdf2f8">
+<h2>Get In Touch 💌</h2>
+<p>📍 Jabalpur, Madhya Pradesh<br>
+Made with 💖 by Madhu - 2026</p>
+</div>
+
+</body>
+</html># My-portfolio-
 My first web developer portfolio 
