@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Madhur Portfolio</title>
+<style>
+body { font-family: sans-serif; text-align: center; margin-top: 50px; background: #f0f0f0; }
+h1 { color: #6a11cb; }
+.card { background: white; padding: 20px; margin: 20px; border-radius: 15px; }
+</style>
+</head>
+<body>
+<h1>Hi, I am Madhu 👋</h1>
+<div class="card">
+<h3>Diploma CS Student | Web Developer</h3>
+<p>I am learning HTML, CSS, JavaScript</p>
+<p>From Jabalpur, MP</p>
+</div>
+<div class="card">
+<p>My Skills: HTML | CSS | GitHub</p>
+</div>
+</body>
+</html>
